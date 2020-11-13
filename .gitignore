@@ -1,0 +1,33 @@
+# Ignoring PyCharm temporary files
+*.pyc
+*.idea
+
+#Ignoring Windows temporary files
+*.tmp
+
+#Ignoring Virtual Env
+*venv
+
+#Ignoring log and output files
+*log.txt
+*output.txt
+
+#Ignoring env files
+*.env
+
+#Ignoring cache files
+*.sqlite
+
+#Ignoring local dbs
+*.db
+
+#Ignoring test files
+*_test.py
+/pruebas
+
+#Ignoring image files
+*.jpg
+*.png
+
+#Ignoring remote-sync files
+*.remote-sync.json
